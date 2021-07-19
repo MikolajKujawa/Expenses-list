@@ -26,5 +26,5 @@ The application also includes a form to add a new expense.
 * React-scripts: <i>4.0.1</i>
 
 ## Other Informations
-Whis web was created by **Mikołaj Kujawa**
+Whis web was created by **Mikołaj Kujawa**</br>
 **Online:** https://expenseslist.netlify.app
